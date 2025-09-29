@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+dist/
+*.o
+*.bin
+*.iso
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Git files
+.git/
+
+# Logs
+*.log
+
+# Docker
+*.pid
+*.seed
